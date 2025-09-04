@@ -12,8 +12,7 @@ I’m currently working ....
 
 😥 I’m currently learning : [**laravel**](https://laravel.com) Framework
 
-#### FOLLOW INSTAGRAM ME
-![image](https://www.instagram.com/robinj_1503?igsh=MXZlemxxdnhxZXQwYw==)
+
 #### SKILLS
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
