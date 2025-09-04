@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello world! I'M Robi Nur Jaman 👋
+![Robi Nur Jaman](img/github-header-banner%20(1).png)
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJydG4yMWl4dDhtNmtzN3RmMjNqeTRnMndneDRhc3NwNmc2anVrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif)
+I’m currently working ....
 
-<!--
-**RobiNurJaman/RobiNurJaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'M From universitas : [**Kuningan**](https://uniku.ac.id/)
 
-Here are some ideas to get you started:
+🧑‍💻 I'M Program study : [**SistemInformasi**](https://si.uniku.ac.id/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏡 I'M From  the city :  [**Kuningan**](https://www.Kuningankab.go.id/)
+
+😥 I’m currently learning : [**laravel**](https://laravel.com) Framework
+
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHMyNDFweDEyeTRkMzN4c2VhaXRnYmdlbHZmd2pxdG40NWZpMDluaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8f3nS1Gajtv70qNicE/giphy.gif)
+
